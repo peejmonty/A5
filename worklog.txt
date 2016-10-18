@@ -1,2 +1,2 @@
-oct/18/2016 Gus Crowley 'Initial git commit with readme file and worklog file'
-oct/18/2016 Gus Crowley 'added home page' 
+oct/18/2016 Gus Crowley 'Initial git commit with readme file and worklog file' 5 min
+oct/18/2016 Gus Crowley 'added server written with node' 30 min 
