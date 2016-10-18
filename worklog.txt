@@ -1,0 +1,1 @@
+oct/18/2016 Gus Crowley 'Initial git commit with readme file and worklog file'
