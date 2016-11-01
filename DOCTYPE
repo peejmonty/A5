@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> DOCTYPE </title>
+</head>
+<body>
+
+<h1> Document Type declaration </h1>
+<p1> To begin an html document you are required to begin each page with a Document Type Declaration. When displaying in a browser, the doctype helps 
+the browser to define the rendering mode. It's purpose origionaly was to enable parsing and validation of HTML docs using SGML tools based 
+on the Document Type Definition (DTD). The DTD to which the DOCTYPE refers contains a machine-readable grammar specifying the permitted 
+and prohibited content for a document conforming to such a DTD. Browsers, on the other hand, do not implement HTML as an application of 
+SGML and by consequence do not read the DTD. </p1>
